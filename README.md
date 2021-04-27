@@ -74,12 +74,25 @@ Creating RDS Database
 
 
 
+
+
+
+
 ![img15](https://user-images.githubusercontent.com/74048346/116232088-4b3a7080-a777-11eb-995f-9e3a207a4260.PNG)
 
 
 
 
+
+
+
+
+
 ![img16](https://user-images.githubusercontent.com/74048346/116232106-4f668e00-a777-11eb-89ea-cf343498cc48.PNG)
+
+
+
+
 
 
 
