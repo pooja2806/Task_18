@@ -7,3 +7,23 @@ Install amazon-linux-extras package
 Install Apache Web Server
 
 
+
+
+ Download WordPress archive
+ 
+ 
+ 
+ 
+ 
+Extracting archive in our Web Directory
+
+
+
+
+ Installation of required PHP packages along with required PHP extensions
+ 
+ 
+ 
+  Checking PHP Version
+
+
