@@ -48,6 +48,11 @@ Extracting archive in our Web Directory
 ![img14](https://user-images.githubusercontent.com/74048346/116230849-c1d66e80-a775-11eb-854a-f30128991cca.PNG)
 
 
+Creating RDS Database
+
+
+
+
 
 
 
